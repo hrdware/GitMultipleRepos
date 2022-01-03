@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitMultipleRepos", "GitMultipleRepos\GitMultipleRepos.csproj", "{4040D880-7AFD-4F9D-AAB0-2E418891D9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4040D880-7AFD-4F9D-AAB0-2E418891D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4040D880-7AFD-4F9D-AAB0-2E418891D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4040D880-7AFD-4F9D-AAB0-2E418891D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4040D880-7AFD-4F9D-AAB0-2E418891D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABE2A4F-63E5-4898-94FA-00D60BBE932C}
+	EndGlobalSection
+EndGlobal
